@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="stonecraft"
+version="0.9.0"
+displayName="stonecraft"
+displayURL="https://morist-official.github.io/home/home.html"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors=" misosoup\u3000\u307F\u305D\u3059\u30FC\u3077  mcreator"
+description="Add more uses for the stones"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.stonecraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
