@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "stonecraft:compression_cobblestone"
+    }
+  },
+  "result": {
+    "item": "stonecraft:compcobblestonearmor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stonecraft:block/compx2cobblestone",
+    "particle": "stonecraft:block/compx2cobblestone"
+  },
+  "render_type": "solid"
+}

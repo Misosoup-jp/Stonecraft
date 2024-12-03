@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stonecraft:steelingot"
+    },
+    {
+      "item": "stonecraft:steelingot"
+    },
+    {
+      "item": "stonecraft:steelingot"
+    },
+    {
+      "item": "stonecraft:steelingot"
+    }
+  ],
+  "result": {
+    "item": "stonecraft:ministeelblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "stonecraft:compression_cobblestone"
+    }
+  },
+  "result": {
+    "item": "stonecraft:compcobblestonearmor_helmet",
+    "count": 1
+  }
+}

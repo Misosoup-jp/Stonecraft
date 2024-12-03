@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stonecraft:block/compression_cobbleston_tex",
+    "particle": "stonecraft:block/compression_cobbleston_tex"
+  },
+  "render_type": "solid"
+}

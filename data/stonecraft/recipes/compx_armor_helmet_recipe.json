@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "stonecraft:compx_2cobblestone"
+    }
+  },
+  "result": {
+    "item": "stonecraft:comp_2xcobblestonearmor_helmet",
+    "count": 1
+  }
+}

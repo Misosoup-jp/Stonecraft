@@ -1,0 +1,36 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:stone"
+    },
+    "title": {
+      "translate": "advancements.stone_1craft.title"
+    },
+    "description": {
+      "translate": "advancements.stone_1craft.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "stone_1craft_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stonecraft:compression_cobblestone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  }
+}

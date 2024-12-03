@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "stonecraft:compx_pickaxe",
+    "stonecraft:compression_pickaxe",
+    "stonecraft:hammer"
+  ]
+}
